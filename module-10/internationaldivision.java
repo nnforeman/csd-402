@@ -1,4 +1,4 @@
-public class InternationalDivision extends Division {
+public class internationaldivision extends division {
 
     private String country;
     private String language;

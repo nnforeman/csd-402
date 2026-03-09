@@ -1,4 +1,4 @@
-public class UseDivision {
+public class usedivision {
 
     public static void main(String[] args) {
 

@@ -6,7 +6,7 @@ Assignment: Module 10
 Purpose: Write a program using to apply abstraction and inheritance concepts.
 */
 
-public abstract class Division {
+public abstract class division {
 
     protected String divisionName;
     protected int accountNumber;

@@ -1,4 +1,4 @@
-public class DomesticDivision extends Division {
+public class domesticdivision extends division {
 
     private String state;
 
