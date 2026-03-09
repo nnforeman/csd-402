@@ -17,7 +17,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class ForemanAssignment_JavaFXLayouts extends Application {
+public class ForemanAssignment_11 {
 
     // Form controls (kept as fields so multiple methods can access them)
     private TextField nameField;
